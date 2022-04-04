@@ -1,10 +1,10 @@
 ### C++
-- Bu C++ Tutorial
-    - Ishlatish
+- ` Bu C++ Tutorial `
+    - Ishlatish 
 ```git
 make
 ```
-or
+` cmd or gitbash and pwsh `
 ```git
 g++ main.cpp -o main
 ```
