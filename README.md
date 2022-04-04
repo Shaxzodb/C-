@@ -1,10 +1,10 @@
 ### C++
 - Bu C++ Tutorial
     - Ishlatish
-```cmd
+```git
 make
 ```
 or
-```cmd
+```git
 g++ main.cpp -o main
 ```
