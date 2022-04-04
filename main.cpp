@@ -1,6 +1,7 @@
 //#include <iostream>
 //#include <string>
 #include "main.hpp"
+#include <conio.h>
 //using namespace std;
 
 void Cars(){
@@ -12,5 +13,7 @@ void Cars(){
 
 int main(){
     Cars();
+    //system("main>0");
+    getch();
     return 0;
 };
