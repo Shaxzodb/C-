@@ -10,6 +10,7 @@ void Cars(){
     MyCar *mycar=new MyCar("BMW","Shaxzod",340,4);
     cout << mycar->All() << endl;
     Car car1("Nexia",67,5);
+    car1.All();
 }
 
 int main(){
